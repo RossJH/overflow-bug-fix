@@ -6,3 +6,7 @@
 .container-2{
     background-color: rgb(214, 226, 43);
 }
+
+* {
+    outline: solid 1px red;
+}
