@@ -10,3 +10,4 @@ var docWidth = document.documentElement.offsetWidth;
 );
 
 //Add this to console and hit enter it will usually show what element is causing overflow. 
+//https://www.smashingmagazine.com/2021/04/css-overflow-issues/
